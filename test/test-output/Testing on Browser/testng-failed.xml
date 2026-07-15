@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="200" name="Failed suite [ Testing on Browser]" guice-stage="DEVELOPMENT" verbose="5">
+  <listeners>
+    <listener class-name="test.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="200" name="  Android Scanner(failed)" verbose="5">
+    <classes>
+      <class name="test.test.LoginTest">
+        <methods>
+          <include name="closeSession"/>
+          <include name="testLogin"/>
+          <include name="closePopUs"/>
+          <include name="startDriver"/>
+        </methods>
+      </class> <!-- test.test.LoginTest -->
+    </classes>
+  </test> <!--   Android Scanner(failed) -->
+</suite> <!-- Failed suite [ Testing on Browser] -->

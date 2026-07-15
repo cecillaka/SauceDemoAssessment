@@ -1,0 +1,8 @@
+2025-02-07 23:09:22 INFO  test.utils.Log4jLogger - [32mTest Passed: Initializing Objects...[0m
+2025-02-07 23:09:22 INFO  test.utils.Log4jLogger - [32mTest Passed: Setting up RemoteWebDriver for browser: chrome[0m
+2025-02-07 23:09:24 INFO  test.utils.Log4jLogger - [32mTest Passed: RemoteWebDriver initialized successfully![0m
+2025-02-07 23:09:29 INFO  test.utils.Log4jLogger - [32mTest Passed: File Found.[0m
+2025-02-07 23:10:00 ERROR test.utils.Log4jLogger - [31mTest Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: login-form-email' (tried for 30 second(s) with 500 milliseconds interval)[0m
+2025-02-07 23:10:30 ERROR test.utils.Log4jLogger - [31mTest Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: login-form-password' (tried for 30 second(s) with 500 milliseconds interval)[0m
+2025-02-07 23:11:00 ERROR test.utils.Log4jLogger - [31mTest Failed: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.cssSelector: .btn-block' (tried for 30 second(s) with 500 milliseconds interval)[0m
+2025-02-07 23:11:10 WARN  test.utils.Log4jLogger - [38;5;208m Closing Browser Driver...[0m

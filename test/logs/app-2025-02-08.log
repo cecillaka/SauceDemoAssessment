@@ -1,0 +1,26 @@
+2025-02-08 14:41:43 INFO  test.utils.Log4jLogger - [32mTest Passed: Initializing Objects...[0m
+2025-02-08 14:41:43 INFO  test.utils.Log4jLogger - [32mTest Passed: Setting up RemoteWebDriver for browser: chrome[0m
+2025-02-08 14:41:45 INFO  test.utils.Log4jLogger - [32mTest Passed: RemoteWebDriver initialized successfully![0m
+2025-02-08 14:41:46 INFO  test.utils.Log4jLogger - [32mTest Passed: File Found.[0m
+2025-02-08 14:41:48 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-02-08 14:41:48 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-02-08 14:41:49 INFO  test.utils.Log4jLogger - [32mTest Passed: standard_user Sent Successfully! on chrome[0m
+2025-02-08 14:41:49 INFO  test.utils.Log4jLogger - [32mTest Passed: secret_sauce Sent Successfully! on chrome[0m
+2025-02-08 14:41:49 INFO  test.utils.Log4jLogger - [32mTest Passed: loginBtn [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:49 INFO  test.utils.Log4jLogger - [32mTest Passed: cartIcon Displayed on :chrome[0m
+2025-02-08 14:41:50 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-02-08 14:41:50 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-02-08 14:41:50 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBackpack [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:50 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:51 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:51 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-02-08 14:41:51 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-02-08 14:41:52 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBikeLight [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:52 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:52 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:53 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-02-08 14:41:53 INFO  test.utils.Log4jLogger - [32mTest Passed: 2: Contains :2 on chrome[0m
+2025-02-08 14:41:53 INFO  test.utils.Log4jLogger - [32mTest Passed: cartButton [button]  clicked Successfully! on chrome[0m
+2025-02-08 14:41:54 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-02-08 14:41:54 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-02-08 14:41:55 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m

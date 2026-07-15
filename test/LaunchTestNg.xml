@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Automation Suite">
+
+    <listeners>
+        <listener class-name="test.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Negative Login Scenario">
+        <parameter name="browserName" value="chrome"/>
+        <parameter name="browserURL" value="https://www.saucedemo.com/"/>
+        <parameter name="severURL" value="http://127.0.0.1:4444"/>
+        <classes>
+            <class name="web.test.NegativeLoginScenario"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser Testing">
+        <parameter name="browserName" value="chrome"/>
+        <parameter name="browserURL" value="https://www.saucedemo.com/"/>
+        <parameter name="severURL" value="http://127.0.0.1:4444"/>
+        <classes>
+            <class name="web.test.WebPlaceOrder"/>
+        </classes>
+    </test>
+
+</suite>

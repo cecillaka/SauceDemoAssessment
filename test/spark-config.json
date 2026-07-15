@@ -1,0 +1,14 @@
+{
+    "theme": "Dark",
+    "documentTitle": "Automation Test Report",
+    "reportName": "Test Execution Report",
+    "timeStampFormat": "MMM dd, yyyy HH:mm:ss",
+	"dashboard": {
+	     "showPieChart": true,
+	     "tests": true,
+	     "categories": true,
+	     "devices": true,
+	     "authors": true
+	 },
+    "logo": "../test/logo/trenstar.png"
+}
